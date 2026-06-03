@@ -3,6 +3,13 @@
 **Theme:** HTML & CSS  
 **Program:** CodePath FTL Internship — Week 1
 
+## Labs
+
+| # | Lab | Repo |
+|---|-----|------|
+| 1 | Campus Life Starter | [heartwillgbekle/campus-life-starter](https://github.com/heartwillgbekle/campus-life-starter) |
+| 2 | Campus Life Part 1 | [heartwillgbekle/campus-life-p1](https://github.com/heartwillgbekle/campus-life-p1) |
+
 ---
 
 ## Lesson 1: HTML
@@ -236,16 +243,16 @@ body {
 
 ## Labs
 
-### Lab 1 — Campus Life Part 1
+### Lab 1 — Campus Life Starter
 
-**Link:** [https://courses.codepath.org/courses/site/unit/1#!lab1](https://courses.codepath.org/courses/site/unit/1#!lab1)
+**Repo:** [heartwillgbekle/campus-life-starter](https://github.com/heartwillgbekle/campus-life-starter)
 
 - Built a campus life website to showcase student organizations and events
 - Practiced writing HTML structure and using semantic tags
 
-### Lab 2 — Campus Life Part 2
+### Lab 2 — Campus Life Part 1
 
-**Link:** [https://courses.codepath.org/courses/site/unit/1#!lab1](https://courses.codepath.org/courses/site/unit/1#!lab1)
+**Repo:** [heartwillgbekle/campus-life-p1](https://github.com/heartwillgbekle/campus-life-p1)
 
 - Continued the campus life site
 - Applied CSS styling — colors, fonts, spacing, and the box model
@@ -284,12 +291,3 @@ Build a **travel guide website** for any location in the world (hometown, dream 
 - [ ] What is the difference between `margin: auto` and `text-align: center`?
 - [ ] When should I use `id` vs `class`?
 
----
-
-## Tomorrow's Topics
-
-- Unit 1 Lab 3 — Bug Crawl
-- Advanced CSS & Responsive Design
-- Unit 1 Lab 4 — Campus Life Part 3
-- Intro to Capstones
-- Unit 1 Project Work Block
