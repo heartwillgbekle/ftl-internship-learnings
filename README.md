@@ -24,8 +24,8 @@ ftl-internship-learnings/
 
 ## Running Notes
 
-- **Start date:** June 3, 2026
-- **Team / org:** FTL
+- **Start date:** June 1, 2026
+- **Team / org:** FTL 
 - **Goal:** Document everything — concepts, tools, wins, and questions
 
 ---
