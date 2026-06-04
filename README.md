@@ -6,14 +6,14 @@ A living journal of my internship at FTL — concepts learned, problems solved, 
 
 ```
 ftl-internship-learnings/
-├── README.md          ← you are here (high-level summary, updated weekly)
+├── README.md       
 ├── week1/
 │   ├── day-1.md
 │   └── ...
 ├── week2/
 │   └── ...
 └── _templates/
-    └── daily-note.md  ← copy this to start each day
+    └── daily-note.md
 ```
 
 ## Weekly Highlights
